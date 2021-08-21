@@ -1,6 +1,6 @@
 # Big-data-and-Success-of-Hollywood-Movies
 
-This is my thesis project with one version of the code utilized through the thesis. 
+This is my thesis project with one version of the code utilized through the thesis, there are many versions of the code depending on the dataset used, since not all movies had a complete dataset. 
 
 
   The focus of the thesis was to predict if and actor was going to be a featured actor (list of 3 actors shown in IMDb website as 'stars') in his next role utilizing the information of the last 3 movies the actor did. This information was transformed since most of them did not have a numerical value and an equation to generate a numerical value was created, this process is explained fully in the thesis pdf. 
