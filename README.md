@@ -7,9 +7,15 @@ This is my thesis project with one version of the code utilized through the thes
 The complete data-set contains all the following features for a single movie:
 ![Features of movie](/Thesis_IMDb_presentacion_defensa_2/Slide6.JPG)
 
-Graphs of the data was added, and the pdf of the full thesis is also available.
-[Thesis IMDb](https://github.com/rabbitindamoon/Big-data-and-Success-of-Hollywood-Movies/blob/main/Thesis_imdb.pdf)
+
+ the pdf of the full thesis is also available: 
+
+[Thesis IMDb pdf](https://github.com/rabbitindamoon/Big-data-and-Success-of-Hollywood-Movies/blob/main/Thesis_imdb.pdf)
+
+Graphs of the data are available in [Graphs](/project_graphs/)
 
 Results are shown in the pdf and in the graphs.
 
 All necessary  references and citations are in the thesis pdf.
+
+
